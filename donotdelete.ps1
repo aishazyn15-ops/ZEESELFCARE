@@ -5,3 +5,4 @@ start-sleep -seconds 3
 write-host "This window will now close..." -ForegroundColor Green
 start-sleep -seconds 2
 exit
+
